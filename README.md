@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Guilherme 😁
+## Olá!! Eu sou o Guilherme, bem vinda(o) ao meu perfil. 😁
 
  <div>
    <a href="https://github.com/Guilherme-Oliveira00">
