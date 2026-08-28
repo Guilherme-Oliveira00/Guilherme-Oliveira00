@@ -1,45 +1,52 @@
 <div align="center">
-  
-  ## Guilherme Oliveira, bem vinda(o) ao meu perfil. 👾
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100" />
+</div>
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100" />
-  
-  <br>
+<br>
+
+# Olá, eu sou o Gui! 👋
 
 **Desenvolvedor Front-end**
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas e apaixonado por dar vida a interfaces. Atualmente aprofundando meus estudos no ecossistema Front-end (JavaScript) e construindo projetos com uma pegada nostálgica, como a minha Vitrine de Jogos do SNES.
-<br>
+Meu nome é Guilherme Oliveira, sou formado em Análise e Desenvolvimento de Sistemas e focado em criar aplicações web responsivas, dinâmicas e intuitivas. Minha jornada no desenvolvimento Front-end é guiada pela construção de layouts bem estruturados, código limpo e foco total na experiência do usuário.
 
-### 💻 Minhas Ferramentas
+## 🚀 Sobre Mim
 
-  <div>
-    <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  </div>
+* 💻 **Foco Atual:** Especialização em **JavaScript e React**, construindo bases sólidas em estilização moderna (CSS Grid, Flexbox e Media Queries) e componentização.
+* 🎓 **Background:** Graduado em Análise e Desenvolvimento de Sistemas.
+* 🎯 **Objetivo:** Contribuir com projetos inovadores, aplicar boas práticas de UI/UX e agregar valor em equipes de tecnologia, sempre em busca de aprendizado contínuo.
 
-<br><br>
+---
 
-### 📊 Estatísticas
+## 💻 Tecnologias e Ferramentas
 
-  <!-- Gráficos reais de contribuições e linguagens -->
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme-Oliveira00&theme=radical" alt="Gráfico de Contribuições" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guilherme-Oliveira00&theme=radical" alt="Gráfico de Pizza de Linguagens" />
-  </div>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" alt="Minhas Habilidades" />
+  </a>
+</div>
 
-<br><br>
+---
 
-### 🕹️ Pra conteúdo sobre programação, me segue nas redes abaixo!
+## 🌟 Projeto Destaque
 
-  <div>
-    <a href="https://www.instagram.com/gui__ollie/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/guilherme-oliveira93/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </div>
+**🎮 [Minha Vitrine de Jogos Snes](https://guilherme-oliveira00.github.io/vitrine-de-jogos-snes/)** 
 
+Um projeto temático construído do zero para homenagear a era de ouro do Super Nintendo. O layout é totalmente responsivo e focado em apresentar clássicos como *Donkey Kong 2* e *Zelda* com uma estética retrô fiel, demonstrando domínio prático sobre estruturação de interfaces e CSS avançado.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Super Nintendo GIF" />
+</div>
+
+---
+
+## 📫 Como me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-oliveira93/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:agitashade00@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
 </div>
